@@ -1,0 +1,64 @@
+.photo1 {
+    width: 18rem;
+    height: 12rem;
+    justify-content: space-around;
+}
+header {
+    color: rgb(78, 53, 41);
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 800;
+}
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    background-color: rgb(68, 12, 12);
+    color: rgb(221, 224, 171);
+    width: 10rem;
+    height: 4rem;
+    font-size: 2rem;
+}
+h1 {
+    color: rgb(27, 82, 63);
+ 
+}
+.background {
+    background-size: cover;
+    background-image: url(https://th.bing.com/th/id/R.cb77a14743eaf3ed95fa1e1d05bca5f5?rik=DMsxaXfCZnghzg&riu=http%3a%2f%2fkyotomoyou.jp%2fsys%2fwp-content%2fuploads%2f2015%2f01%2f19%2f20150119211453388.jpg&ehk=KivaS1S8pFpsuHUW%2bjqbTsx9YhQ3U%2fXygBehWYjATPM%3d&risl=1&pid=ImgRaw&r=0);
+}
+.between {
+    height: 100%;
+    background: rgba(255, 255, 255, 0.5);
+}
+.sec2 {
+    margin: 3rem;
+    padding: 0%;
+    text-align: center;
+}
+.topic {
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+.content {
+    font-size: 5rem;
+    border: 10px solid;
+    border-color: black;
+}
+.commenta {
+    margin: 2rem;
+    font-size: 2rem;
+    color: rgb(35, 95, 61);
+    font-weight: 600;
+    
+}
+.comment {
+    margin: 1rem;
+    font-size: 1.7rem;
+    font-weight: 500;
+    color: black;
+}
+footer {
+    height: 0rem;
+}
